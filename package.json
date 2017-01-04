@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SortableJS/react-mixin-sortablejs/issues"
   },
-  "homepage": "https://github.com/SortableJS/react-mixin-sortablejs#readme"
+  "homepage": "https://github.com/SortableJS/react-mixin-sortablejs#readme",
+  "dependencies": {
+    "sortablejs": "^1.4.2"
+  }
 }
