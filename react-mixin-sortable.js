@@ -27,16 +27,7 @@
 		ref: 'list',
 		model: 'items',
 
-		animation: 100,
-		onStart: 'handleStart',
-		onEnd: 'handleEnd',
-		onAdd: 'handleAdd',
-		onUpdate: 'handleUpdate',
-		onRemove: 'handleRemove',
-		onSort: 'handleSort',
-		onFilter: 'handleFilter',
-		onMove: 'handleMove',
-		onClone: 'handleClone'
+		animation: 100
 	};
 
 
